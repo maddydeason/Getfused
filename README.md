@@ -3,6 +3,7 @@ list of projects contributed to as Front-end Developer at [Getfused](http://www.
 
 * [Patriots365](https://www.patriots365.com/)
 * [Legal Sea Foods](https://www.legalseafoods.com/)
+* [Boston Private Bank (the Vault)](https://www.bostonprivate.com/vault)
 * [McMillan Education](http://www.mcmillaneducation.com/)
 * [Big Sister](http://www.bigsister.org/)
 * [Chapel Grille](http://www.chapelgrilleri.com/)
