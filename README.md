@@ -1,6 +1,7 @@
 # Getfused
 list of projects contributed to as Front-end Developer at [Getfused](http://www.getfused.com/)
 
+* [The Switch](http://www.theswitch.tv/)
 * [Patriots365](https://www.patriots365.com/)
 * [Legal Sea Foods](https://www.legalseafoods.com/)
 * [Boston Private Bank (the Vault)](https://www.bostonprivate.com/vault)
