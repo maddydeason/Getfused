@@ -1,6 +1,7 @@
 # Getfused
 list of projects contributed to as Front-end Developer at [Getfused](http://www.getfused.com/)
 
+* [Harpoon Brewery](https://www.harpoonbrewery.com/), [Harpoon Helps](http://www.harpoonhelps.com/)
 * [The Switch](http://www.theswitch.tv/)
 * [Patriots365](https://www.patriots365.com/)
 * [Legal Sea Foods](https://www.legalseafoods.com/)
